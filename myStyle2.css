@@ -1,0 +1,176 @@
+/* CSS Document */
+*{
+padding: 0; margin: 0;
+}
+
+body {
+position:absolute;    
+margin-left:60px;
+background:url(fon1.jpg) ;
+    
+}
+.main {
+width: 970px;
+margin: 0 auto;
+}
+.content main {
+    
+background: :#f7f7f7; border: 1px solid #fff; overflow: hidden;
+    border-radius: 15px;
+    -moz-border-radius: 15px;    
+}
+
+.menu {
+list-style: none;margin-left: 182px; width:874px; background:black; overflow: hidden;
+    margin-top: 0px;
+    border-radius: 15px 15px 0 0 ;
+    -moz-border-radius: 15px 15px 0 0 ;
+}
+.menu li{
+    float: left;padding:13px 34px ;
+}
+.menu li a{
+font:18px "Century Gothic" ; color:red ;text-decoration: none;
+}
+.menu li a:hover{
+font:18px "Century Gothic" ; color:red ;text-decoration: underline;
+}
+.main-imgstyle {
+    padding: 0 0 0 180px ;
+    width: 72%;
+    
+}
+
+.content{
+    
+    width: 630px; float: left; margin: -89px 0 0 184px;
+}
+.post-main{
+    background: #f5f5f5; border: 1px solid #e7e2e3; margin: 20px 0 0 0 ;
+    border-radius: 8px;
+    -moz-border-radius: 8px ;
+}
+.post-main h1{
+    font:normal 24px "Verdana" ; color: ;background: #e2e0e1;
+    border-radius: 8px 8px 0 0;
+    -moz-border-radius: 8px 8px 0 0;
+    padding: 5px 20px 8px 15px;
+}
+.post-main h1 a{
+    font:normal 24px "Verdana" ; color:#3f282f; text-decoration: none;
+}
+.post-main h1 a:hover{
+    font:normal 24px "Verdana" ; color:#3f282f; text-decoration: underline;
+}
+.post-main h1 span {
+    font:normal  12px "Verdana"; color: #b8a6ab;
+}
+.imgstyle {
+    float: left;margin: 0 10px 10px 0;
+}
+.post{
+    margin: 0 15px 15px 15px;
+}
+.post p{
+    font: 14px "Verdana";color: black; margin: 0 0 5px 0 ;
+}
+.post p a{
+    color:#3f282f ;text-decoration: underline;
+}
+.post p a:hover{
+    color:#3f282f ;text-decoration: none;
+}
+.sidebar {
+    width: 220px; float: left;margin: -69px 182px 0 22px;background:#f7f7f7;
+    border-radius: 8px;
+}
+.viget{
+    background: #f7f7f7;  
+    border-radius: 8px;
+    -moz-border-radius:8px;
+}
+.viget h2{
+    font:18px"Century Gothic" ; background:black ;color:red; text-align: center;padding:  10px;
+    border-radius: 8px 8px 0 0;
+    -moz-border-radius: 8px 8px 0 0;
+}
+.viget ul {
+    list-style: none;
+    padding: 29px 25px;
+    border-radius: 8px;
+}
+.viget ul li {
+    border-bottom: 1px solid #c8bbbd;padding: 2.9%;
+    border-top: 1px solid #fff; color:#000;font-family: "Century Gothic";
+    
+    
+}
+.viget ul li:first-child{
+    border-top: none;
+}
+.viget ul li:last-child{
+    border-bottom: none;
+    
+}
+.viget ul li a {
+    font:16px "Century Gothic";color: #000;text-decoration: underline;padding:5px 0 5px 20px;
+}
+.viget ul li a:hover {
+    font:16px "Century Gothic";color: #000;text-decoration: none;padding:5px 0 5px 20px;
+}
+
+.footer{
+    overflow: hidden;margin-top: 61%;
+    position:relative;
+    clear: both;
+    text-align: center;
+    width: 930px;
+    height: 65px;
+    left: 188px;
+    
+    padding:5px 0 5px 20px; 
+    border-radius: 8px 8px 0 0 ;
+
+}
+
+.cpy{
+    padding: 5px;
+    text-align: center;
+    border-radius: 8px 8px 0 0 ;
+}
+
+
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
